@@ -1,0 +1,11 @@
+#image-section {
+  width: 600px;
+  height: 500px;
+}
+
+#image-section {
+  position: relative;
+  left: 700px;
+  right: -700px;
+  top: 700
+}
